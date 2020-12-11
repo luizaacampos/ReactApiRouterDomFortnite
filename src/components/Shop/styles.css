@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.list {
+    margin: 20px;
+
+}
+    
+h2 {
+    text-align: left;  
+}
+
+.item {
+    text-decoration: inherit;
+    color: inherit;
+}

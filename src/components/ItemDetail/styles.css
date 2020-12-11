@@ -1,0 +1,18 @@
+.container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container img {
+    width: 500px;
+    height: auto;
+    padding: 10px;
+}
+
+.container p {
+    margin: auto;
+    align-self: center;
+    font-size: 20px;
+}
+

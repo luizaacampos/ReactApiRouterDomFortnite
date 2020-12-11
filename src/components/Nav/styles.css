@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    min-height: 10vh;
+    background-color: rgb(12, 82, 105);
+    color: white;
+  }
+  
+  .nav-links {
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  h1 {
+    margin: 20px;
+  }
